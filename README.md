@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -108,9 +107,10 @@
 
     <h2>📫 Connect with Me</h2>
     <div class="contact">
-      <a href="https://github.com/your-username" target="_blank">GitHub</a>
-      <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">Upwork</a>
-      <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>
+      <a href="https://github.com/profmuhammadjabbar/" target="_blank">GitHub</a>
+      <a href="https://www.upwork.com/freelancers/~0199c1ad62169a659e?viewMode=1" target="_blank">Upwork</a>
+      <a href="https://www.linkedin.com/in/muhammad-jabbar-36456149/" target="_blank">LinkedIn</a>
+      <a href="https://www.facebook.com/muhammad.jabbar.37/" target="_blank">Facebook</a>
     </div>
 
     <p style="text-align: center; margin-top: 20px;">
