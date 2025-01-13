@@ -64,7 +64,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Hi there, I'm Muhammad Jabbar! 👋</h1>
+    <h1>Hi there! 👋</h1>
     <p>
       Welcome to my GitHub profile! I'm a passionate <strong>Mobile App Developer</strong> and 
       <strong>Full-Stack Developer</strong> with over 10 years of experience specializing in React Native and Flutter.
